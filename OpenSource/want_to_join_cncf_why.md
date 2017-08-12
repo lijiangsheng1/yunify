@@ -74,25 +74,25 @@ Nathen Harvey 在 Information Week 中的文章中指出了三个问题：“项
 
 #### 市场机会
 
-* Benefit from and participate in CNCF press relations, analyst relations and marketing efforts
-* nEngage with your peers on the marketing committee
-* Feature your products and applications based on CNCF technology at key industry events, website and marketing collateral
-* Receive a 3% sponsorship discount on any CNCF-produced events (5% when committing to multiple events)
-* Participate in our hosted projects and attend our events, meetups, and roadshows
+* 参与到CNCF 媒体发布、分析行为、市场策划中，并从中获益
+* 在市场营销会上和同行一起
+* 基于CNCF的技术，为你的产品和服务增色，在一些关键的业界会议、网站、和市场渠道进行宣传
+* 在任何 CNCF 出品的会议上获得3%的赞助折扣(当提交多个会议时，可获得5%的折扣)
+* 可以参与我们主持的项目，以及参与我们的活动、Meetup、以及路演
 
 #### 技术领先
 
-* Contribute to and influence the direction of CNCF technologies
-* Drive leadership for future enhancements and extensions that matter for your business
-* Ability to guide feature sets in requirements documents and future technology roadmaps
+* 贡献给CNCF，并产生直接的影响力
+* 在增强和扩展方面引领未来，这都关系着你的业务
+* 能够在需求文档和未来技术路线图中起到指导的关键作用
 
 #### 学习和鼓励
 
-* Engage and collaborate with the membership community to enhance your cloud roadmap
-* Work together across company lines and industries
-* Design your applications and services to work with the cloud native platform of orchestrated containers as part of a microservices architecture
-* Create products & apps secure in the knowledge that they will be interoperable in the future
-* Ability to serve as a CNCF Ambassador
+* 与会员社区合作，以增强您的云路线图
+* 跨越公司的界线和行业一起工作
+* 设计你的应用和服务，从而能够以微服务架构的一部分，来运行云原生的容器编排平台
+* 创建产品和应用，能够确保未来是可互操作的
+* 有机会以CNCF大使的身份参与社区
 
 
 ![](https://www.cncf.io/wp-content/uploads/sites/2/2016/09/cncfscope.png)
@@ -138,6 +138,8 @@ Nathen Harvey 在 Information Week 中的文章中指出了三个问题：“项
 ## 那到底加还是不加？
 
 正如 CNCF 官方所说，你根本就不需要成为所谓的会员。CNCF 非常欢迎参与项目建设、在线讨论、邮件来往，以及线下的各种活动。
+
+**青云应该投入开发和相关技术人员参与到CNCF相关的项目中，积攒一定的实力之后再投入金钱，大投入才有大回报！**
 
 参考资料：
 
